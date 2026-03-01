@@ -507,8 +507,6 @@ Contributions are welcome! Here's how you can help:
 
 ## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
-
 **Data License**: Wikipedia data is available under [Creative Commons Attribution-ShareAlike License](https://creativecommons.org/licenses/by-sa/3.0/).
 
 ---
